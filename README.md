@@ -50,17 +50,3 @@ git push
 
 * Existe talleres/taller_semana_01/workspace/reports/validacion_inicial.txt.
 
-* El script corre 2 veces seguidas sin fallar (idempotente).
-
-* El repo tiene al menos 1 commit tuyo con el resultado.
-
-# Bonus (opcional)
-
-Edita scripts/setup_proyecto.sh y agrega al reporte:
-
-Top 3 sensores con más registros (usa cut | sort | uniq -c | sort -nr | head -n 3).
-
-# Ejercicio
-
-Realiza los ejercicios propuestos en el pdf, y deja evidencia del trabajo en tu git en la carpeta `talleres/taller_semana_01/workspace`
-# Taller-semana-01-workspace
